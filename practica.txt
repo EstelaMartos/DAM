@@ -6,3 +6,9 @@ creamos modificación en rama bugfixing
 
 otro cambio para bugfixing
 
+
+
+hola hola quiero que se cree un conflicto:Un pato nadaba por el río en busca de peces y en todo el día no había encontrado ninguno. Cuando llegó la noche, vio el reflejo de la luna en el agua, pensó que era un pez y se sumergió para capturarlo. Los otros patos lo vieron y empezaron a reírse.
+
+Desde entonces, el pato sintió tanta vergüenza y timidez que, incluso cuando veía un pez bajo el agua, no hacía nada para capturarlo, y de ese modo se murió de hambre.
+
